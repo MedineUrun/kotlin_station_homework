@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson</string>
+
+    <string-array name="fuel_types">
+        <item>GASOLINE</item>
+        <item>DIESEL</item>
+    </string-array>
+
+
+</resources>
